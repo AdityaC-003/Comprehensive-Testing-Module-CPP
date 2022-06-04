@@ -1,8 +1,6 @@
 # Comprehensive-Testing-Module-CPP
 
-Created as part of Class 12 Computer Science Project.
-
-* A sandbox testing module in C++
+* A sandbox testing module in C++ (Created as part of Class 12 Computer Science Project)
 * Has 2 interfaces: one for student & one for administrators.
 * Features: 
   * Add/modify students & their details
