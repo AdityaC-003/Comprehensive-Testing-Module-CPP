@@ -1,5 +1,7 @@
 # Comprehensive-Testing-Module-CPP
 
+Created as part of Class 12 Computer Science Project.
+
 * A sandbox testing module in C++
 * Has 2 interfaces: one for student & one for administrators.
 * Features: 
@@ -9,3 +11,9 @@
   * Comprehensive performance analysis
   * Support for multiple objective question types.
 * Data is stored locally on files.
+
+Members:
+* Aditya C
+* Abhinav Sen
+* Akhil B
+* Keshav Krishna M B
