@@ -15,3 +15,10 @@ Members:
 * Abhinav Sen
 * Akhil B
 * Keshav Krishna M B
+
+
+Usage instructions:
+
+* Code is based on syntax of C++99, compiles and runs on Turbo C++
+* setup.cpp creates the necessary files for the program
+* main.cpp is the application to be run to login into the portal and work accordingly.
